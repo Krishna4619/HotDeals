@@ -45,11 +45,12 @@ input {
     border-radius: 5px;
 }
 
-.check {
-    display: flex;
-    gap: 8px;
-    margin-bottom: 20px;
-    font-size: 14px;
+.check div{
+    font-size: 13px;
+    color: #555;
+    position: relative;
+    bottom: 28px;
+    left: 25px;
 }
 
 .btn {

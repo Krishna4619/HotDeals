@@ -310,12 +310,19 @@ sale-section {
   font-weight: bold;
 }
 .product{
-  transition: all 0.3s ease;
+  transition: all 0.8s ease;
 }
 .product:hover{
   height: 400px;
   width: 300px;
   box-shadow: 0 5px 5px black;
+}
+.product img{
+  transition: all 0.1s ease;
+}
+.product img:hover{
+  height: 320px;
+  width: 270px;
 }
 
 
